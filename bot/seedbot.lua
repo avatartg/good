@@ -240,12 +240,12 @@ function create_config( )
     about_text = [[Teleseed v4
 An advanced administration bot based on TG-CLI written in Lua
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/avatartg/good
 
 Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@POTUS [Developer]
+@Ali_dev_AVATAR [Founder]
+@avatar_sudo [Developer]
+@Silent_75 [Developer]
 @seyedan25 [Manager]
 @aRandomStranger [Admin]
 
@@ -256,11 +256,11 @@ topkecleon
 Vamptacus
 
 Our channels
-@teleseedch [English]
-@iranseed [persian]
+@AVATAR_TG [English]
+@AVATAR_TG_TM [persian]
 
 Our website 
-http://teleseed.seedteam.org/
+http://Github.com/avatartg.com/
 ]],
     help_text_realm = [[
 Realm Commands:
