@@ -233,6 +233,7 @@ function create_config( )
 	"msg_checks",
 "update",
 "plugins",
+"save"
     },
     sudo_users = {212295971,103649648,111020322,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
